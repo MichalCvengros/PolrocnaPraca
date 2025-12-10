@@ -14,8 +14,6 @@ namespace Polročná_práca
         {
             _HP = 200;
             _DMG = 25;
-        }
-        
-
+        }       
     }
 }
